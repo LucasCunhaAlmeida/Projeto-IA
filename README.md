@@ -1,4 +1,4 @@
-# 🩺 Projeto 1: Sistema de Diagnóstico Médico com Classificação
+# 🩺 Projeto: Sistema de Diagnóstico Médico com Classificação
 
 ## 👥 Integrantes
 - [Lucas Cunha Almeida](https://github.com/LucasCunhaAlmeida/)
